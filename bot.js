@@ -8,7 +8,7 @@ const pvp = require('mineflayer-pvp').plugin;
 const botConfig = {
   host: 'articraft.uz',
   port: 25565,
-  username: 'azizferm',
+  username: 'aziz_bot',
   auth: 'offline'
 };
 
